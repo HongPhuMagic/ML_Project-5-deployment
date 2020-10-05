@@ -3,7 +3,7 @@
 
 #### Deployment
 
-Live demo: 
+Live demo: http://ec2-15-222-236-146.ca-central-1.compute.amazonaws.com/apidocs/
 
 #### Note
 
